@@ -15,4 +15,4 @@ remove_last(numbers)
 # Checking the list after the function call
 print("After function call:", numbers)
 
-# Conclusion: The original list is changed because lists are mutable
+# Conclusion: The original list is changed because lists are mutable1 2 
